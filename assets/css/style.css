@@ -1,0 +1,42 @@
+body {
+    background: url("../images/knitting.png");
+  }
+  
+  .container {
+    clear: both;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 960px;
+  }
+  
+  .userGame {
+      display: inline-block;
+      margin: 10px;
+  }
+  
+  button.game {
+     
+      background-color: #38047c;
+      color: white;
+      padding: 5px 10px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 12px;
+      margin: 10px 5px 0;
+  }
+  
+  #game-form {
+      margin: 10px 0;
+  }
+  
+  #addGame {
+    
+      background-color: #06dbb8;
+      color: white;
+      padding: 5px 10px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 12px;
+      margin: 5px 0;
+  }
+  
